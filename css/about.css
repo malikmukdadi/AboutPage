@@ -1,0 +1,17 @@
+p {
+    text-align: center;
+    font-size: x-large;
+}
+
+h1 {
+    text-align: center;
+    alignment: center;
+}
+
+hr {
+    width: 50%;
+    height: 5px;
+    border-width: 0;
+    color: gray;
+    background-color: black
+}
