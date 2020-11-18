@@ -1,6 +1,6 @@
 <?php
 
-$servename = "35.169.210.169";
+$servename = "localhost";
 $DBuname = "root";
 $DBPass = "Hanna31961!";
 $DBname = "cs230";
