@@ -76,7 +76,6 @@ require 'includes/dbhandler.php';
     </div>
 
     <?php
-    require 'includes/header.php';
     } else {
         header("Location: login.php");
         exit();

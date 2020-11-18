@@ -13,11 +13,7 @@ require 'includes/header.php'
     <h1>About Me!</h1>
     <hr>
 
-    <p>My name is Malik Mukdadi, I'm currently a sophomore dual majoring in Computer
-        and Electrical Engineering. I really love learning about computers in general, and I try to be involved
-        as much as I can everyday! I'm the president of the IEEE chapter at WVU and had recently completed an internship
-        at 4D Tech Solutions in Fairmont (it was so amazing)! My hobbies outside of academics include lifting, playing
-        video games (im a bit addicted to Valorant right now), and play the guitar! </p>
+    <p>Welcome to Hobby Services! Where I take what little hobbies I have and teach them for a disclosed private price!</p>
 
     <img src="images/valorant.jpg" alt="valorant" width="716" height="403">
     <img src="images/guitar.png" alt="guitar" width="716" height="403">
